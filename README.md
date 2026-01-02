@@ -2,14 +2,6 @@
 <img width="1310" height="962" alt="1" src="https://github.com/user-attachments/assets/03cc172d-63e6-4570-af9c-1f72e910bc95" />
 <img width="1310" height="962" alt="Screenshot 2025-12-19 171256" src="https://github.com/user-attachments/assets/c0310e59-7f86-4ecb-9bfd-b5bfab17f9c0" />
 <img width="1617" height="803" alt="Screenshot 2025-12-19 172312" src="https://github.com/user-attachments/assets/e8c42284-f4be-41d3-b909-1a1d0882bc4b" />
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.1-brightgreen.svg)](https://spring.io/projects/spring-boot)
-[![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-2023.0.0-blue.svg)](https://spring.io/projects/spring-cloud)
-[![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0+-blue.svg)](https://www.mysql.com/)
-
-Projet pédagogique démontrant une **architecture microservices complète** avec **Eureka Server**, **WebClient** et **communication inter-services dynamique**.
-
----
 
 |-----|-------------|
 | http://localhost:8761 | Dashboard de visualisation |
